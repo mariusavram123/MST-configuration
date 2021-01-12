@@ -23,5 +23,5 @@ d:
 
 - Set e2/0 port on SW1 as access port in VLAN 100
 - Set e2/0 port on SW2 as access port in VLAN 300
-- Set e2/0 port on SW3 as access port on VLAN 200
+- Set e2/0 port on SW3 as access port in VLAN 200
 - Set e2/1 port on SW3 as access port in VLAN 400
