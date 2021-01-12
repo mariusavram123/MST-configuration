@@ -1,0 +1,10 @@
+This will be configured on all 3 switches:
+
+vlan 100
+name ENGINEERING
+vlan 200
+name SUPPORT
+vlan 300
+name SALES
+vlan 400
+name R&D

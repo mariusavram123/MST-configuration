@@ -1,0 +1,9 @@
+SW1:
+
+spanning-tree mst 1 root primary
+spanning-tree mst 2 root secondary
+
+SW3:
+
+spanning-tree mst 2 root primary
+spanning-tree mst 1 root secondary

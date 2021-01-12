@@ -1,0 +1,3 @@
+This will be configured on all 3 switches:
+
+spanning-tree mode mst

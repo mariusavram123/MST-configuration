@@ -1,0 +1,4 @@
+This will be configured on all ports connected to end devices on all switches:
+
+interface e2/0
+spanning-tree portfast
